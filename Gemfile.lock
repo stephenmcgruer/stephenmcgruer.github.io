@@ -23,6 +23,7 @@ GEM
     liquid (2.5.1)
     maruku (0.6.1)
       syntax (>= 1.0.0)
+    newrelic_rpm (3.6.6.147)
     posix-spawn (0.3.6)
     puma (2.3.2)
       rack (>= 1.1, < 2.0)
@@ -42,6 +43,7 @@ PLATFORMS
 
 DEPENDENCIES
   jekyll (= 1.0.3)
+  newrelic_rpm
   puma (= 2.3.2)
   rack-contrib (= 1.1.0)
   rake (= 10.1.0)

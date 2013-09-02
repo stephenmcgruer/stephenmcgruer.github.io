@@ -7,3 +7,6 @@ gem "jekyll", "1.0.3"
 
 gem "rack-contrib", "1.1.0"
 gem "puma", "2.3.2"
+
+# For NewRelic monitoring plugin.
+gem 'newrelic_rpm'
