@@ -3,8 +3,6 @@ require 'rack/contrib/not_found'
 
 require 'newrelic_rpm'
 
-STDOUT.puts "RPM detected environment: #{NewRelic::LocalEnvironment.new}"
-
 use Rack::TryStatic,
   :root => "_site",
   :urls => %w[/],
