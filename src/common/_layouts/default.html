@@ -2,9 +2,27 @@
 <html>
     <head>
         <meta charset="utf-8">
+
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-        <title>{{ page.title }}</title>
+
+        <title>{% if page.title %}{{ page.title }} - {% endif %}{{ site.name }}</title>
+
         <meta name="viewport" content="width=device-width">
+
+        <meta name="author" content="{{ site.name }}" />
+        <meta name="description" content="{{ page.description }}" />
+
+        <!-- Meta information for building twitter cards. -->
+        <meta property="twitter:card" content="summary" />
+        <meta property="twitter:creator" content="@stephenmcgruer" />
+
+        <!-- Meta information for OpenGraph (covers Facebook and Google+) -->
+        <meta property="og:url" content="{{ site.url }}{% unless page.url == '/index.html' %}{{ page.url }}{% endunless %}" />
+        <meta property="og:title" content="{% if page.title %}{{ page.title }} - {% endif %}{{ site.name }}" />
+        <meta property="og:description" content="{{ page.description }}" />
+
+        <!-- Google+ authorship link. -->
+        <link rel="author" href="https://plus.google.com/113736965898516578856" >
 
         <!-- syntax highlighting CSS -->
         <link rel="stylesheet" href="/css/syntax.css">

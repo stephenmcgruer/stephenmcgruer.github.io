@@ -1,7 +1,8 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  Welcome to Jekyll!
 date:   2013-08-31 10:42:48
+description: Test blog
 categories: jekyll update
 ---
 
