@@ -6,7 +6,7 @@ require 'newrelic_rpm'
 
 use Rack::Rewrite do
   # Resume.
-  send_file %r{/resume(.pdf)?}, 'resume/resume.pdf'
+  send_file %r{/resume(.pdf)?}, 'media/resume/resume.pdf'
 
   # Redirect all non-www traffic to www.
   r301 %r{.*}, 'http://www.stephenmcgruer.com$&', :if => Proc.new { |rack_env|
