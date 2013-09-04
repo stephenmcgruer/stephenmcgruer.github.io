@@ -1,17 +1,8 @@
-name: Stephen McGruer
-
 # source/destination are given as relative from the root
 source: src/site
 destination: _site
 
-url: http://www.stephenmcgruer.com
 baseurl: /
 
 # Links for the main site should be simple.
 permalink: none
-
-markdown: kramdown
-pygments: true
-
-# Because _config.yml is processed from root, we must exclude all files there.
-exclude: [config.ru, Gemfile, Gemfile.lock, LICENSE.txt, newrelic.yml, Procfile, Rakefile, README.md, src, vendor]

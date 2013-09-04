@@ -1,0 +1,11 @@
+name: Stephen McGruer
+
+url: http://www.stephenmcgruer.com
+
+markdown: kramdown
+pygments: true
+
+# Because _config.yml is processed from root, we must exclude all files there.
+exclude: [config.ru, Gemfile, Gemfile.lock, LICENSE.txt, newrelic.yml, Procfile, Rakefile, README.md, src, vendor]
+
+layouts: ../common/_layouts
