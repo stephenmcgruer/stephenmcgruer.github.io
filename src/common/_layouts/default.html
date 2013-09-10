@@ -7,7 +7,7 @@
 
         <title>{% if page.title %}{{ page.title }} - {% endif %}{{ site.name }}</title>
 
-        <meta name="viewport" content="width=device-width">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
         <meta name="author" content="{{ site.name }}" />
         <meta name="description" content="{{ page.description }}" />
@@ -28,34 +28,32 @@
         <link rel="stylesheet" href="/css/syntax.css">
 
         <!-- Custom CSS -->
-        <link rel="stylesheet" href="/css/main.css">
+        <link rel="stylesheet" href="/css/header.css">
+        <link rel="stylesheet" href="/css/page.css">
+        <link rel="stylesheet" href="/css/footer.css">
 
     </head>
+
     <body>
+        <header class="header">
+            <h1>Stephen McGruer</h1>
+            <nav class="header--nav">
+                <a href="/">Home</a>
+                <a href="/blog">Blog</a>
+                <a href="/resume">Résumé</a>
+            </nav>
+        </header>
 
-        <div class="container">
-          <div class="site">
-            <div class="header">
-              <h1 class="title"><a href="/">{{ site.name }}</a></h1>
-              <a class="extra" href="/">home</a>
-              <a class="extra" href="/blog">blog</a>
-              <a class="extra" href="/resume">resume</a>
-            </div>
-     
-                {{ content }}
+        {{ content }}
 
-            <div class="footer">
-              <div class="contact">
-                <p>
-                  Stephen McGruer<br />
-                  stephen.mcgruer@gmail.com<br />
-                  <a href="http://github.com/stephenmcgruer/">github.com/stephenmcgruer</a><br />
-                  <a href="http://twitter.com/stephenmcgruer/">twitter.com/stephenmcgruer</a><br />
-                </p>
-              </div>
-            </div>
-          </div>
-        </div> <!-- /container -->
-
+        <footer class="footer">
+            <ul class="footer--links">
+                <li><a href="http://twitter.com/stephenmcgruer/">Twitter</a></li>
+                <li><a href="http://github.com/stephenmcgruer/">Github</a></li>
+            </ul>
+            <p class="footer--copyright">
+              © Copyright 2013 Stephen McGruer
+            </p>
+        </footer>
     </body>
 </html>

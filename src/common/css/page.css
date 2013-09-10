@@ -1,0 +1,35 @@
+html {
+  font-size: 1em;
+  font-family: Helvetica, Arial, sans-serif;
+}
+
+body {
+  color: #333;
+  background-color: #fff;
+  max-width: 700px;
+  margin: 0 auto;
+  padding: 12px;
+  padding-bottom: 0;
+}
+
+h1 {
+  font-size: 32px; font-size: 2rem;
+}
+
+a {
+  color: #999;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #666;
+}
+
+ul {
+  /* Override user-agent settings. */
+  margin: 0;
+}
+
+.section {
+  margin-bottom: 24px;
+}
