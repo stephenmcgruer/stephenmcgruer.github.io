@@ -16,7 +16,7 @@ h1 {
   font-size: 32px; font-size: 2rem;
 }
 
-a {
+.header a {
   color: #999;
   text-decoration: none;
 }
@@ -30,6 +30,16 @@ ul {
   margin: 0;
 }
 
+sup {
+  vertical-align: top;
+  font-size: 0.6em;
+}
+
 .section {
   margin-bottom: 24px;
+}
+
+.footnote {
+  margin-top: 1em;
+  font-size: 0.8em;
 }

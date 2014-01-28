@@ -16,5 +16,7 @@ namespace :assets do
       cp source, target
     end
 
+    # TODO: Serve images better
+    FileUtils.cp_r("media", "_site/media");
   end
 end
