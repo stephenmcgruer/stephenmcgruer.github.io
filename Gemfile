@@ -4,6 +4,7 @@ ruby "2.0.0"
 gem "rake", "10.1.0"
 
 gem "jekyll"
+gem "liquid", ">=2.5.3"
 
 gem "rack-contrib", "1.1.0"
 gem "rack-rewrite", "1.3.3"
