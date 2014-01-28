@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Scotsman in a Strange Land
-date:   2014-01-24 19:10:00
+date:   2014-01-27 19:10:00
 comments: true
 categories: personal Canada
 ---
