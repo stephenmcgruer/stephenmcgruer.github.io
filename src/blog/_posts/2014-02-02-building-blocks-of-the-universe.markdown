@@ -11,13 +11,13 @@ Amazingly, we may even make the Sunday deadline (or perhaps not; my clock
 currently says 10:50pm...)
 
 Helpfully (for my deadline), it has been a quiet week, at least for myself.
-Jasmine has been busier, doing residency interviews with Hamilton and Waterloo
-medical schools - which seem to have gone well, which is good. After her
-Waterloo interview on Friday we celebrated by going to
+Jasmine has been busier, doing residency interviews with two more medical
+schools - which seem to have gone well, which is good. After her second
+interview we celebrated by going to
 [Beertown](http://www.beertown.ca/). We've tried before, but their waiting
 times have driven us off. Alas, it seemed to us that the waiting times were not
-representative of the quality; while they did have an excellent selection
-of beer (I tried the [delirium
+representative of the quality; while they did have an excellent selection of
+beer (I tried the [delirium
 tremens](http://en.wikipedia.org/wiki/Delirium_Tremens_(beer))), the food was
 fairly poor quality. Still, you live and learn!
 
