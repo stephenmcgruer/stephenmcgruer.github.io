@@ -13,11 +13,11 @@ Wednesday evening. Still, we managed to fit in a few activities.
 
 On Thursday evening, jet-lagged though I was, we dropped by a friends house for
 boardgames and beer (and pizza). A lot of fun was had, despite my inability to
-win either at
+win at either
 <a href="http://boardgamegeek.com/boardgame/14996/ticket-to-ride-europe">Ticket To Ride</a>
 or
 <a href="http://boardgamegeek.com/boardgame/29368/last-night-on-earth-the-zombie-game">Last Night on Earth</a>.
-Being rebellious spirits, it was past midnight before we once more changed the
+Being rebellious spirits, it was past midnight before we once more chanced the
 -15 &deg; weather and headed home. Here now jet lag played a helping hand, as
 despite the late bedtime I was wide awake the next morning for work!
 
@@ -41,7 +41,7 @@ couch, a desk, a TV stand (albeit we have no TV yet), and curtain
 poles/blinds for all of our windows (though no curtains!). Alas, while the
 desk and TV stand were easily assembled, we ran into plasterboard problems
 when trying to put up the blinds. (The matter has been raised to a more
-experience body. Hi Dad!). Still, overall a success I feel, and I have finally
+experienced body. Hi Dad!). Still, overall a success I feel, and I have finally
 been able to remove my computer from the dining table and give it a proper
 home:
 
@@ -56,5 +56,5 @@ home:
 The couch didn't fit in the car, so should be arriving sometime tomorrow.
 
 Unfortunately that brings us to the end of this week's update. Time now to
-retire to bed, and look ashamedly at my windows and their complete lack of
+retire to bed, and look shamefully at my windows and their complete lack of
 blinds. Until next week, adios!
