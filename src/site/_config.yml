@@ -1,8 +1,0 @@
-# source/destination are given as relative from the root
-source: src/site
-destination: _site
-
-baseurl: /
-
-# Links for the main site should be simple.
-permalink: none
