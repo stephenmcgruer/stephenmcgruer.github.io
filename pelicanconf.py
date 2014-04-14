@@ -12,6 +12,8 @@ ARTICLE_SAVE_AS = 'blog/{date:%Y}/{date:%m}/{date:%d}/{slug}/index.html'
 MENUITEMS = [('Home', '/'), ('About', '/about.html')]
 DISPLAY_CATEGORIES_ON_MENU = False
 
+STATIC_PATHS = ['images']
+
 TIMEZONE = 'America/Toronto'
 
 DEFAULT_LANG = u'en'
@@ -22,7 +24,7 @@ THEME = 'pelican-octopress-theme/'
 PLUGIN_PATH = 'pelican-plugins'
 PLUGINS = ['summary', 'liquid_tags.img', 'liquid_tags.video',
            'liquid_tags.include_code', 'liquid_tags.notebook',
-           'liquid_tags.literal']
+           'liquid_tags.literal', 'liquid_tags.youtube']
 
 TWITTER_USER = 'stephenmcgruer'
 GOOGLE_PLUS_USER = 'stephenmcgruer'
