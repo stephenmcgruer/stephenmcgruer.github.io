@@ -23,8 +23,8 @@ DEFAULT_PAGINATION = 10
 THEME = 'pelican-octopress-theme/'
 PLUGIN_PATH = 'pelican-plugins'
 PLUGINS = ['summary', 'liquid_tags.img', 'liquid_tags.video',
-           'liquid_tags.include_code', 'liquid_tags.notebook',
-           'liquid_tags.literal', 'liquid_tags.youtube']
+           'liquid_tags.include_code', 'liquid_tags.literal',
+           'liquid_tags.youtube']
 
 TWITTER_USER = 'stephenmcgruer'
 GOOGLE_PLUS_USER = 'stephenmcgruer'
