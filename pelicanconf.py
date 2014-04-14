@@ -9,10 +9,10 @@ SITEURL = ''
 ARTICLE_URL = 'blog/{date:%Y}/{date:%m}/{date:%d}/{slug}/'
 ARTICLE_SAVE_AS = 'blog/{date:%Y}/{date:%m}/{date:%d}/{slug}/index.html'
 
-MENUITEMS = [('Home', '/')]
+MENUITEMS = [('Home', '/'), ('Resume', '/downloads/resume.pdf')]
 DISPLAY_CATEGORIES_ON_MENU = False
 
-STATIC_PATHS = ['images']
+STATIC_PATHS = ['images', 'downloads']
 
 TIMEZONE = 'America/Toronto'
 
