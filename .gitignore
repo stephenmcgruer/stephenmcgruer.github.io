@@ -2,3 +2,6 @@
 *.pyc
 output
 _build
+
+# Stupid OSX
+.DS_Store
