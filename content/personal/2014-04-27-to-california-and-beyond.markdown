@@ -1,4 +1,4 @@
-Title:  Busy weekends and website redesigns
+Title:  To California, and Beyond (Not Really)
 Date:   2014-04-27 23:06:00
 
 Why, good evening dear readers. A somewhat unusual post this week, as I am
