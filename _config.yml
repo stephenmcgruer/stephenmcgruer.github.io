@@ -15,5 +15,8 @@ google_analytics: 'UA-XXXXXXXX-X'
 url:            'http://stephenmcgruer.com'
 author:         'Stephen McGruer'
 
+github:
+  main:           https://github.com/stephenmcgruer
+
 gems: ['kramdown', 'jekyll-paginate']
 exclude: ['config.ru', 'Gemfile', 'Gemfile.lock', 'vendor', 'Procfile', 'Rakefile']
