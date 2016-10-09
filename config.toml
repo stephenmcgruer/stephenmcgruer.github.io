@@ -1,3 +1,27 @@
-baseurl = "http://replace-this-with-your-hugo-site.com/"
-title = "My New Hugo Site"
+baseurl = "http://stephenmcgruer.com/"
+title = "Stephen McGruer"
 languageCode = "en-us"
+disqusShortname = "TODO"
+MetaDataFormat = "toml"
+theme = "hyde-x"
+paginate = 10
+
+[author]
+    name = "Stephen"
+
+[permalinks]
+    post = "/blog/:year/:month/:day/:title"
+
+[taxonomies]
+    category = "categories"
+
+[params]
+    tagline = "Cookies. Coding. Cumbersome Writing."
+    home = "Home"
+
+    googleAnalytics = "TODO"
+    gravatarHash = "TODO"
+
+    github = "https://github.com/stephenmcgruer"
+
+    rss = true
