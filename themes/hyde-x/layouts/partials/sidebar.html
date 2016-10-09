@@ -14,6 +14,7 @@
       {{ range .Site.Menus.main }}
       <li class="sidebar-nav-item">{{ .Pre }}<a href="{{ .URL | absURL }}">{{ .Name }}</a></li>
       {{end}}
+      <li class="sidebar-nav-item"><a href="{{ "/" | absURL }}resume.pdf">Resume</a></li>
     </ul>
 
     <ul class="sidebar-nav">
