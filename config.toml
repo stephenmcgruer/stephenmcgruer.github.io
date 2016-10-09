@@ -19,6 +19,8 @@ paginate = 10
     tagline = "Cookies. Coding. Cumbersome Writing."
     home = "Home"
 
+    hideReadingTime = true
+
     googleAnalytics = "TODO"
     gravatarHash = "TODO"
 
