@@ -28,21 +28,20 @@ name = "About"
 url = "/about"
 weight = 3
 
-
 [[menu.main]]
 name = "Resume"
 url = "/resume.pdf"
 weight = 4
 
-[[menu.main]]
-name = "Tags"
-url = "/tags"
-weight = 5
-
 [[params.social]]
 name = "Github"
 icon = "github"
-url = "https://github.com/knadh/hugo-ink"
+url = "https://github.com/stephenmcgruer"
+
+[[params.social]]
+  name = "LinkedIn"
+  icon = "linkedin"
+  url = "https://www.linkedin.com/in/stephen-mcgruer/"
 
 [taxonomies]
    tag = "tags"

@@ -6,7 +6,7 @@ type: "page"
 
 Hi there! I'm Stephen. Programmer, baker, expat, occasional blog-writer.
 Currently I'm employed by Google as a Senior Software Engineer on the
-[Google Fiber](https://fiber.google.com) project.
+[Google Chrome](https://www.google.com/intl/en_ca/chrome/) project.
 
 Before joining Google I obtained a Master of Informatics (MInf) from the
 University of Edinburgh. My thesis focused on automating Compiler Optimization
