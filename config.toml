@@ -1,4 +1,4 @@
-baseurl = "https://stephenmcgruer.github.io/"
+baseurl = "https://www.stephenmcgruer.com/"
 languageCode = "en-us"
 title = "Stephen McGruer"
 theme = "hugo-ink"
