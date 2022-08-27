@@ -1,10 +1,8 @@
-+++
-type = "page"
-title = "About Me"
-description = "About Me"
-menu = "main"
-
-+++
+---
+title: "About"
+date: 2022-08-27T07:37:58+05:30
+type: "page"
+---
 
 Hi there! I'm Stephen. Programmer, baker, expat, occasional blog-writer.
 Currently I'm employed by Google as a Senior Software Engineer on the

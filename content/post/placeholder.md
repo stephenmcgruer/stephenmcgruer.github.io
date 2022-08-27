@@ -1,10 +1,6 @@
-+++
-title = "Placeholder Post"
-categories = [
-  "placeholder",
-]
-date = "2016-10-08T21:24:47-04:00"
-
-+++
+---
+title: "Placeholder Post"
+date: "2022-08-27T07:36:47-04:00"
+---
 
 Content coming soon! (Perhaps)
