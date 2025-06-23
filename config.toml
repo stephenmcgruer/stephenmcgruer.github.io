@@ -2,7 +2,6 @@ baseurl = "https://www.stephenmcgruer.com/"
 languageCode = "en-us"
 title = "Stephen McGruer"
 theme = "hugo-ink"
-paginate = 5
 
 pygmentsstyle = "vs"
 pygmentscodefences = true
@@ -11,6 +10,9 @@ pygmentscodefencesguesssyntax = true
 [params]
     subtitle = "Cookies. Coding. Cumbersome Writing."
     mode = "auto"
+
+[pagination]
+    pagerSize = 5
 
 # Nav.
 [[menu.main]]
